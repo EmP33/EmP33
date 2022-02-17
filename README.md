@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Marek
 
-<!--
-**EmP33/EmP33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a 20 years old guy from Poland with passion to programming
 
-Here are some ideas to get you started:
+- 🔨 I'm currently working on a BeBetter - app
+- 📚 I'm currently learning React
+- ✨2022 Goals: Create BeBetter App, CodeNote App, Own Portfolio Site
+- 👔 About me: I love to spent time on a gym or cycling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[https://www.facebook.com/marekpur2][facebook]
+[https://www.instagram.com/marek_p1/][instagram]
+[https://www.linkedin.com/in/marek-purwin-2425b31a5/][linkedin]
+[#][website] - soon
+
+<br/>
+
+### Languages and Tools
+
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][webdevplaylist]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>][webdevplaylist]
+
