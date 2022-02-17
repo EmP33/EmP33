@@ -9,10 +9,10 @@
 
 ### Connect with me:
 
-[https://www.facebook.com/marekpur2][facebook]
-[https://www.instagram.com/marek_p1/][instagram]
-[https://www.linkedin.com/in/marek-purwin-2425b31a5/][linkedin]
-[#][website] - soon
+[facebook](https://www.facebook.com/marekpur2)
+[instagram](https://www.instagram.com/marek_p1/)
+[linkedin](https://www.linkedin.com/in/marek-purwin-2425b31a5/)
+[website](#) - soon
 
 <br/>
 
