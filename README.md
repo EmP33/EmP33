@@ -3,7 +3,7 @@
 ## I'm a 20 years old guy from Poland with passion to programming
 
 - 🔨 I'm currently working on a BeBetter - app
-- 📚 I'm currently learning React
+- 📚 I'm currently learning Jest & react-testing-lib
 - ✨2022 Goals: Create BeBetter App, CodeNote App, Own Portfolio Site
 - 👔 About me: I love to spent time on a gym or cycling
 
