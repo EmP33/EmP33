@@ -96,21 +96,6 @@ I'm a 20 years old guy from Poland with passion to programming.</div>
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
 <br />
 
 ----
