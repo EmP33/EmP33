@@ -5,7 +5,7 @@ I'm a 20 years old guy from Poland with passion to programming.</div>
 - 🔭 I’m currently working on RockYouHome Shop  
   
 
-- 🌱 I’m currently learning Firebase and SEO  
+- 🌱 I’m currently learning TypeScript
   
 
 - ✨2022 Goals: Create BeBetter App, CodeNote App, Own Portfolio Site  
