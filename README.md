@@ -2,7 +2,7 @@
 I'm a 20 years old guy from Poland with passion to programming.</div>  
   
 
-- 🔭 I’m currently working on BeNative Language Web
+- 🔭 I’m currently working on Portfolio Site
   
 
 - 🌱 I’m currently learning TypeScript
