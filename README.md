@@ -1,11 +1,12 @@
 ### <div align="center">Hi there, I'm Marek
+<div align="center">Generated using <a href="https://emp33.vercel.app/" target="_blank">Portfolio website</a></div>
 I'm a 20 years old guy from Poland with passion to programming.</div>  
   
 
-- 🔭 I’m currently working on Portfolio Site
+- 🔭 I’m currently working on Tense Web app
   
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Next.js
   
 
 - ✨2022 Goals: Create BeBetter App, CodeNote App, Own Portfolio Site  
