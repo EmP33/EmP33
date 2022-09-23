@@ -7,7 +7,7 @@ I'm a 20 years old guy from Poland with passion to programming.</div>
 - 🔭 I’m currently working on Tense Web app
   
 
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Gatsby
   
 
 - ✨2022 Goals: Create BeBetter App, CodeNote App, Own Portfolio Site  
