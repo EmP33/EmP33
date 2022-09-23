@@ -10,7 +10,7 @@ I'm a 20 years old guy from Poland with passion to programming.</div>
 - 🌱 I’m currently learning Gatsby
   
 
-- ✨2022 Goals: Create BeBetter App, CodeNote App, Own Portfolio Site  
+- ✨2022 Goals: Create BeNative App, CodeNote App, Own Portfolio Site  
   
 
 - 👔 About me: I love to spent time on a gym or cycling  
