@@ -1,16 +1,16 @@
 ### <div align="center">Hi there, I'm Marek
 <div align="center"><a href="https://emp33.vercel.app/" target="_blank">Portfolio website</a></div>
 
-I'm a 20 years old guy from Poland with passion to programming.</div>  
+I'm a 21 years old guy from Poland with passion to programming.</div>  
   
 
-- 🔭 I’m currently working on Engrandy Website
+- 🔭 I’m currently working on Engrandy Dashboard
   
 
 - 🌱 I’m currently learning Gatsby
   
 
-- ✨2022 Goals: Create BeNative App, CodeNote App, Own Portfolio Site  
+- ✨2022 Goals: Create BeNative App (COMPLETE), CodeNote App (COMPLETE), Own Portfolio Site (COMPLETE)
   
 
 - 👔 About me: I love to spent time on a gym or cycling  
