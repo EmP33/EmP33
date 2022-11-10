@@ -4,10 +4,10 @@
 I'm a 21 years old guy from Poland with passion to programming.</div>  
   
 
-- 🔭 I’m currently working on Engrandy Dashboard
+- 🔭 I’m currently working on LuxUI
   
 
-- 🌱 I’m currently learning Gatsby
+- 🌱 I’m currently learning Angular
   
 
 - ✨2022 Goals: Create BeNative App (COMPLETE), CodeNote App (COMPLETE), Own Portfolio Site (COMPLETE)
