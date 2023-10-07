@@ -1,16 +1,7 @@
 ### <div align="center">Hi there, I'm Marek
 <div align="center"><a href="https://emp33.vercel.app/" target="_blank">Portfolio website</a></div>
 
-I'm a 21 years old guy from Poland with passion to programming.</div>  
-  
-
-- 🔭 I’m currently working on LuxUI
-  
-
-- 🌱 I’m currently learning Angular
-  
-
-- ✨2022 Goals: Create BeNative App (COMPLETE), CodeNote App (COMPLETE), Own Portfolio Site (COMPLETE)
+I'm a 22 years old guy from Poland with passion to programming.</div>  
   
 
 - 👔 About me: I love to spent time on a gym or cycling  
